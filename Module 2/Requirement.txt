@@ -1,0 +1,1 @@
+# pip install jupyter keras tensorflow numpy
